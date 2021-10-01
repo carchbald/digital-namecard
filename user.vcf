@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Archbald;Conor;;;
+FN: Conor  Archbald 
+ORG:Vida Capital;
+TITLE:Associate\nInvestor Relations
+EMAIL;type=INTERNET;type=WORK;type=pref:conor.archbald@vidacapitalinc.com
+TEL;type=WORK;type=VOICE:413 695 5440
+item1.ADR;type=WORK;type=pref:;;835 W 6th Street\nAustin\, TX\, ;;;78703
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:vidacapitalinc.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
